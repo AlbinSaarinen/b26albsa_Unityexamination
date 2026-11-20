@@ -43861,7 +43861,6 @@ GameObject:
   - component: {fileID: 718330935}
   - component: {fileID: 718330936}
   - component: {fileID: 718330937}
-  - component: {fileID: 718330939}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -44193,14 +44192,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfed20908f90087408f2eb61840b5a4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerRespawn
---- !u!81 &718330939
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 718330930}
-  m_Enabled: 1
 --- !u!1001 &724916388
 PrefabInstance:
   m_ObjectHideFlags: 0
